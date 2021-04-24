@@ -1,5 +1,8 @@
 # ssr-demo
 
+## 简介
+
+初始化vue-ssr项目
 ## Project setup
 ```
 yarn install
