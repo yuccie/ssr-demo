@@ -8425,6 +8425,11 @@
     "vue-hot-reload-api" "^2.3.0"
     "vue-style-loader" "^4.1.0"
 
+"vue-router@^3.5.1":
+  "integrity" "sha1-7fPPSQeVLR4Fg+B5I3Igxf9utsk="
+  "resolved" "https://npm.corp.kuaishou.com/vue-router/-/vue-router-3.5.1.tgz"
+  "version" "3.5.1"
+
 "vue-server-renderer@^2.6.12":
   "integrity" "sha1-qMucSUOe8gUpPLQcNdDSsFQWU6U="
   "resolved" "https://npm.corp.kuaishou.com/vue-server-renderer/-/vue-server-renderer-2.6.12.tgz"
