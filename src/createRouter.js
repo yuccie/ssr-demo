@@ -7,7 +7,7 @@ Vue.use(Router);
 
 const routes = [
     {
-        path: '/',
+        path: '/:id',
         name: 'Home',
         component: Home
     },
@@ -15,7 +15,7 @@ const routes = [
         path: '/about',
         name: 'About',
         component: About
-    }
+    },
 ]
 
 export default function createRouter() {
